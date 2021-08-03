@@ -1,2 +1,4 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends.
+Performing analysis on global Kickstarter data to uncover trends.
+
+READ ME file to be polished after challenge assignment.
