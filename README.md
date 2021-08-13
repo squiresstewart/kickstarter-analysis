@@ -26,15 +26,20 @@ To perform the analysis of outcomes based on goals, I created a new worksheet wi
 
 I originally started to make this table using filters similar to the method noted in Outcomes Based on Launch Date. My table and chart were not appearing as they should according to lesson. I knew there was a way to make my excel formulas do the filtering for me instead, but I didn't know how just yet. I used the "Insert Function" tool to explored other typed of functions. I was able to confirm by suspicion that the formula can do the filtering for me by listing all of my conditionals in the COUNTIFS() function.
 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+![Theater_Outcomes_vs_Launch.png](/Resources/Theater_Outcomes_vs_Launch.png)
 
 One can conclude that theater outcomes are more successful when launch dates are scheduled in the spring and summer.
 
 One can also conclude that most seasonal Halloween shows are never cancelled.
 
 - What can you conclude about the Outcomes based on Goals?
+
+![Outcomes_vs_Goals.png](/Resources/Outcomes_vs_Goals.png)
 
 One can conclude that shows with a lower goal have a higher probability of success.
 
