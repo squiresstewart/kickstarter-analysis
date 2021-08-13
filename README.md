@@ -2,6 +2,8 @@
 
 ## Overview of Project
 
+[Kickstarter_Challenge.xlsx](/Resources/Kickstarter_Challenge.xlsx)
+
 This project is an analysis of a variety of startup global entertainment mediums and venues, their financial statistics,
 as well as startup outcomes. With this project one can query specific key factors and show how those factors may affect the successes or failures of those startups through trends.
 
@@ -29,26 +31,26 @@ I originally started to make this table using filters similar to the method note
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 ![Theater_Outcomes_vs_Launch.png](/Resources/Theater_Outcomes_vs_Launch.png)
 
-One can conclude that theater outcomes are more successful when launch dates are scheduled in the spring and summer.
+- One can conclude that theater outcomes are more successful when launch dates are scheduled in the spring and summer.
 
-One can also conclude that most seasonal Halloween shows are never cancelled.
+- One can also conclude that most seasonal Halloween shows are never cancelled.
 
-- What can you conclude about the Outcomes based on Goals?
+What can you conclude about the Outcomes based on Goals?
 
 ![Outcomes_vs_Goals.png](/Resources/Outcomes_vs_Goals.png)
 
-One can conclude that shows with a lower goal have a higher probability of success.
+- One can conclude that shows with a lower goal have a higher probability of success.
 
-One can also conclude that when it comes to plays, no matter what the goal is, the show must go on as there are none cancelled.
+- One can also conclude that when it comes to plays, no matter what the goal is, the show must go on as there are none cancelled.
 
-- What are some limitations of this dataset?
+What are some limitations of this dataset?
 
-One limitation of the data set is that there is no accounting for revenues gained during shows and whether those revenues pushed failed goals into successful status.
+- One limitation of the data set is that there is no accounting for revenues gained during shows and whether those revenues pushed failed goals into successful       status.
 
-- What are some other possible tables and/or graphs that we could create?
+What are some other possible tables and/or graphs that we could create?
 
-A vertical bar graph could be generated indicating which subcategories are most popular based upon successful goal outcomes and the number of backers.
+- A vertical bar graph could be generated indicating which subcategories are most popular based upon successful goal outcomes and the number of backers.
